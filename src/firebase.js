@@ -8,12 +8,13 @@ import {getFirestore} from 'firebase/firestore'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyD4nvvx_U5LYJymtQ1ZfVEUl-WEPKf56Lk",
-  authDomain: "chatapp-d12a5.firebaseapp.com",
-  projectId: "chatapp-d12a5",
-  storageBucket: "chatapp-d12a5.appspot.com",
-  messagingSenderId: "738023761116",
-  appId: "1:738023761116:web:5abb1f93e8aa5824e30019"
+  apiKey: "AIzaSyC21AbQ81AWbx9KZ-CwtgToKbsV8pIQUeg",
+  authDomain: "chatapp-e779e.firebaseapp.com",
+  projectId: "chatapp-e779e",
+  storageBucket: "chatapp-e779e.appspot.com",
+  messagingSenderId: "208525483538",
+  appId: "1:208525483538:web:399f3c3bce91a29ed502cb",
+  measurementId: "G-Q062W04QZZ"
 };
 
 // Initialize Firebase
