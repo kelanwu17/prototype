@@ -5,7 +5,7 @@ import {auth} from '../firebase'
 import {GoogleAuthProvider, signInWithRedirect} from 'firebase/auth'
 
 const style = {
-    wrapper: `flex justify-center`
+    wrapper: `flex justify-center sign-in`
 }
 
 const googleSignIn = () => {

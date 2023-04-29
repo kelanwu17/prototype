@@ -12,7 +12,7 @@ const signOut = () => {
 }
 
   return (
-    <div className="containerWrap flex justify-between">
+    <div className="containerWrap flex justify-between logout">
       <button onClick={() => auth.signOut()} className={style.button}>
               Logout
       </button>
